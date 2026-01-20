@@ -94,3 +94,6 @@ INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 ```
 
 User authentication is not included, pelase see `validate_password()` in app.py.
+
+`instruction.md` is a system prompt for the LLM, and it is very
+specific to ShowNet 2025. Please modify it for your environment.
